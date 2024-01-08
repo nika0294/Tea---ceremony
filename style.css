@@ -41,9 +41,10 @@ nav {
         margin-right: 16px;
       }
       #men{ background-color: #F1E4C3;
-        right: 200px;
+        right: -100px;
         float:right;
-      
+        
+
         width:35%;
         height:10100px;
         text-align:center;
@@ -100,4 +101,8 @@ nav {
         font-size: 20px;
         text-align: left;
       }
+    @media (min-widh: 320px) {
+      nav ul li:first-child {
+        margin-right: 0px;} 
+    }
     
