@@ -46,7 +46,7 @@ nav {
         
 
         width:35%;
-        height:10100px;
+        height:10900px;
         text-align:center;
         color:#FFFFFF;
         font-size:18px;
@@ -58,7 +58,7 @@ nav {
         background:#F1E4C3;
         float:left;
         width:5%;
-        height:10100px;
+        height:10900px;
         text-align:center;
         color:#FFFFFF;
         font-size:18px;
@@ -71,7 +71,7 @@ nav {
         background:#ffffff;
         padding-top: 0px;
         
-        height:10100px;
+        height:10900px;
         text-align:left;
        }
        #footer{
@@ -101,8 +101,7 @@ nav {
         font-size: 20px;
         text-align: left;
       }
-    @media (min-widh: 320px) {
+    @media (min-widh: 222px) {
       nav ul li:first-child {
         margin-right: 0px;} 
     }
-    
