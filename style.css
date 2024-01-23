@@ -27,12 +27,12 @@ nav {
   
   nav ul li {
     display: inline-block;
-      margin-left: 580x;
+      margin-left: 590px;
       text-transform: uppercase;
       padding: 20px 10px 15px 20px
     }
     nav ul li:first-child {
-      margin-left: 420px;
+      margin-left: 0px;
       position: relative; top: 8px;
     }
     a {
