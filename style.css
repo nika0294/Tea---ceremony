@@ -27,12 +27,12 @@ nav {
   
   nav ul li {
     display: inline-block;
-      margin-left: 590x;
+      margin-left: 580x;
       text-transform: uppercase;
       padding: 20px 10px 15px 20px
     }
     nav ul li:first-child {
-      margin-right: 420px;
+      margin-left: 420px;
       position: relative; top: 8px;
     }
     a {
@@ -46,7 +46,7 @@ nav {
         
 
         width:35%;
-        height:10900px;
+        height:11000px;
         text-align:center;
         color:#FFFFFF;
         font-size:18px;
@@ -58,7 +58,7 @@ nav {
         background:#F1E4C3;
         float:left;
         width:5%;
-        height:10900px;
+        height:11000px;
         text-align:center;
         color:#FFFFFF;
         font-size:18px;
